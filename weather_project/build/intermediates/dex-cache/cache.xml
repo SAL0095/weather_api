@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\7dea2f3990135e867f50c7cb507e356520a6e16d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_3174c8305ea44246f6a5fbc130333808ca1d92a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\4867a9bef642541929c90c53c5fe554c4944b3c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_478542e58838318a89a0f1f4fbbeee8107e320c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_b94fe116aab58ea540b8ba2b10083345a9da40ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\c5f2f51965e5fd246b3c7e9a60191082385fd64e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_7d535655fdaffd7f8ade2e47d444edd0e673deec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\7f032a6e80874a45e9513cc3a0e15c54ed90478a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_5bff1e35b2448f5dc9c44e6bc809dfa119b57876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\f1a68e106ce44ee1659155efe24dc20abb7adbae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_0d05da8ffabb836397b8c13a923c8ed4b46519f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\233b5ec2fb2f5dca13e718ea97c54a55ec5176a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_0b234827c56748f51831ae61330eff1942e77c56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\352820eaef2c2057bd44c14911a7b6c8bdd90981\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_9390dbcc4bea1261226db31258c6a3f852db1e41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\12746f79fef5318068e132f93766a1e8a9a1278b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_d57be408c2210e82c7e7604235a3f5d9627161e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_d7a245d7e1102d3560d5d988846a5c73d50f6e28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\0cc80dedc7dc712f0501e9f920c5a8623d377daa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_b97ac944b29ca6904c955188797392937afd6dc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\78765e4860f977f423910b95aef0454fcba25675\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_64f1ac7ec39106b909e68e38f846a5ed22a40fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\9c87df35be6d8d970e039af06eeb79966cf72a28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_8604963e4775c532310056e9e2e2f14c738516d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\d02f2a4218085cec8d8b511c6db40d58743b120b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_1cf300170ddea01dd39bdf56f4d299a27e5f8e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\f4afbb439c0787ff43a78fc3aa04faa72f5124db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_5741c0a1d19473737f32884872766ba1310c9312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tonda\.android\build-cache\bfb109224912580353f7e96387eea1a94bbbfca9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Tonda\Desktop\WeatherAPI\app\build\intermediates\pre-dexed\debug\classes_c54f3d09d2cfe7d34318fd6f11af275059c69f49.jar" />
+    </item>
+
+</items>
