@@ -8,10 +8,6 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by tonda on 12/7/2017.
- */
-
 public class UVJSONParser {
 
     public List<UVEntry> parse(InputStream in) throws IOException {
