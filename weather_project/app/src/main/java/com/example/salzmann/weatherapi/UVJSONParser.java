@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by lasak on 12/7/2017.
+ * Created by tonda on 12/7/2017.
  */
 
 public class UVJSONParser {
